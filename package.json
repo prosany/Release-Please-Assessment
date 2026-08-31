@@ -1,6 +1,6 @@
 {
   "name": "express-release-please-demo",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Dummy Express.js application demonstrating Release Please",
   "main": "src/app.js",
   "scripts": {
