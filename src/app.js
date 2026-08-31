@@ -9,7 +9,7 @@ app.use(express.json());
 app.get("/", (req, res) => {
     res.json({
         success: true,
-        message: "Hello from Express Release Please Demo!",
+        message: "Hey, Hello from Express Release Please Demo!",
         version: "0.1.0"
     });
 });
