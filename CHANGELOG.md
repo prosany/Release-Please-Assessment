@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/prosany/Release-Please-Assessment/compare/v0.2.0...v0.2.1) (2026-08-31)
+
+
+### Bug Fixes
+
+* update welcome message in root endpoint response ([b888f44](https://github.com/prosany/Release-Please-Assessment/commit/b888f4481c60dbab0791aae47980bf57b33222b9))
+
 ## [0.2.0](https://github.com/prosany/Release-Please-Assessment/compare/v0.1.0...v0.2.0) (2026-08-31)
 
 
